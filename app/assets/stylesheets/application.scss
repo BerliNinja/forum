@@ -40,16 +40,18 @@ body {
   background: white;
   #logo {
     float: left;
-    p {
+    a {
       text-transform: uppercase;
       font-weight: 700;
       letter-spacing: -1px;
       font-size: 1.8rem;
+      text-decoration: none;
+      color: #397CAC;
     }
   }
 
 #buttons {
-  margin-top: 18px;
+  margin-top: 5px;
   float: right;
   a {
     line-height: 60px;
